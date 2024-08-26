@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Anime-King01" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Anime-King01" target="_blank">𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝕯𝖊𝖛𝖎𝖑+𝕮𝖆𝖙+𝓥3+;WHATSAPP+BUG+BOT;DEVELOPED+BY+𝕷𝖔𝖗𝖉+𝕹𝖔+𝕹𝖆𝖒𝖊+;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
