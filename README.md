@@ -52,7 +52,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](https://id.heroku.com/login)
 * Add Build packs
 * Connect your heroku with your github
-* Locate BADBOI-v2-BUG
+* Locate DEVIL-CAT-V3.0
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -70,7 +70,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [BADBOI-v2](https://github.com/BADBOI-v1/BADBOI-v2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [DEVIL-CAT-V3.0](https://github.com/Anime-King01/DEVIL-CAT-V3.0) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
