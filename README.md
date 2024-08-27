@@ -29,7 +29,7 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 ### 1. <a href="https://github.com/Anime-King01/DEVIL-CAT-V3.0/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
 ## `Generate Pair Code For Session`
 
-[`𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3 Pairing using Replit`](https://replit.com/@haotak/DevilCat-1?v=1)
+[`𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3 Pairing using Replit`](https://replit.com/@zinxxyexe/Toxic-Creds)
 
 
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
